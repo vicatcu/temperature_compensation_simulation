@@ -12,8 +12,8 @@ const float no2_start_ppb = 0.0f;
 const float no2_full_scale_ppb = 400.0f;
 const float no2_ppb_step = 1.0f;  
 const float co_start_ppm = 0.0f;
-const float co_full_scale_ppm = 200.0f;
-const float co_ppm_step = 1.0f;  
+const float co_full_scale_ppm = 100.0f;
+const float co_ppm_step = 0.5f;  
 
 /*
 const float temperature_start = 20.0f;
